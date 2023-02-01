@@ -1,14 +1,14 @@
 import { useState } from "react";
 
-import Navbar from "./components/Navbar.jsx";
-import Hero from "./components/Hero.jsx";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
 
 import "./App.css";
-import OurApproach from "./components/OurApproach.jsx";
-import OurServices from "./components/OurServices.jsx";
-import SupportedBy from "./components/SupportedBy.jsx";
-import ContactUs from "./components/ContactUs.jsx";
-import Footer from "./components/Footer.jsx";
+import OurApproach from "./components/OurApproach";
+import OurServices from "./components/OurServices";
+import SupportedBy from "./components/SupportedBy";
+import ContactUs from "./components/ContactUs";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
